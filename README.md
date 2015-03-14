@@ -1,10 +1,6 @@
 # itoa_for_linux
 
-Fastest itoa() function for Linux.
+I think it may be the fastest itoa() function for Linux and for all platforms.
 
-It used 180 ms in my test case, while itoa of MFC use 320 ms. 
-
-You can test it if you don't believe.
-
-Why it's faster? Find it out yourself. The code is quite simple.
+It cost 180 milliseconds in my test case, while itoa of MFC cost 320 ms. 
 
